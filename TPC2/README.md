@@ -1,4 +1,4 @@
-# TPC1 - Jogo dos Fósforos
+# TPC2 - Jogo dos Fósforos
 # Autor
 Hugo Pescadinha Lomba, a110406, ![Minha foto](Imagens/minha_foto.jpg)
 # Resumo
@@ -8,5 +8,6 @@ Hugo Pescadinha Lomba, a110406, ![Minha foto](Imagens/minha_foto.jpg)
 -  [Utilizador em 1º](utilizador_1.png)
 
 -  [Utilizador em 2º](utilizador_2.png)
+
 
 

@@ -6,8 +6,8 @@ Hugo Pescadinha Lomba, a110406, ![Minha foto](Imagens/minha_foto.jpg)
 # Resolução
 -  [Jogo dos Fósforos](Jogo_fósforos.png)
 -  [Utilizador em 1º](utilizador_1.png)
-
 -  [Utilizador em 2º](utilizador_2.png)
+
 
 
 
